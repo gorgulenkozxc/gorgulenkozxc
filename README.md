@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 51 mins         ██████████████████████▓░░   90.64 %
-Rust         19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Docker       13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Markdown     10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   4 hrs 52 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
